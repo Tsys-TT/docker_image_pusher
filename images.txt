@@ -2,4 +2,5 @@
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 
-madeliney/mind-map:latest
+#madeliney/mind-map:latest
+shuiche/mind-map:v0.13.1
