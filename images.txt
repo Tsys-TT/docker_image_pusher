@@ -4,4 +4,5 @@
 #--platform=linux/arm64/amd64
 #madeliney/mind-map:latest
 #shuiche/mind-map:v0.13.1
-liwangsheng/mind-map
+#liwangsheng/mind-map
+tomcat
