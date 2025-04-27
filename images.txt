@@ -6,8 +6,8 @@
 #shuiche/mind-map:v0.13.1
 #liwangsheng/mind-map
 #tomcat
-mysql
-Vikunja
+#mysql
+#Vikunja
 Markmind
 Mindmaps
 JSMind
