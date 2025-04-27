@@ -5,4 +5,9 @@
 #madeliney/mind-map:latest
 #shuiche/mind-map:v0.13.1
 #liwangsheng/mind-map
-tomcat
+#tomcat
+mysql
+Vikunja
+Markmind
+Mindmaps
+JSMind
