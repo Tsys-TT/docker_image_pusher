@@ -7,7 +7,7 @@
 #liwangsheng/mind-map
 #tomcat
 #mysql
-#Vikunja
-Markmind
-Mindmaps
-JSMind
+vikunja
+markmind
+mindmaps
+jsmind
